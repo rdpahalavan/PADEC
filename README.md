@@ -27,7 +27,7 @@ To further assist in this research, several Python packages have been developed 
 
 - **BERTSimilar**: This tool provides similar words and embeddings using BERT models. Check it out [here](https://github.com/rdpahalavan/BERTSimilar).
 
-- **NIDS Datasets**: This repository offers a way to download the UNSW-NB15 and CIC-IDS2017 Datasets used for Network Intrusion Detection. Available [here](https://github.com/rdpahalavan/nids-datasets).
+- **NIDS Datasets**: This repository offers a way to download the UNSW-NB15 and CIC-IDS2017 Datasets used in this research. Available [here](https://github.com/rdpahalavan/nids-datasets).
 
 - **NIDS Transformers**: Focused on tag generation and text generation inference for network packets using transformers. Explore more [here](https://github.com/rdpahalavan/nids-transformers).
 
